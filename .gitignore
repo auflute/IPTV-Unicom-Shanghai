@@ -1,0 +1,16 @@
+# Claude Code 本地工具文件（不要提交）
+.claude/
+.claude_apply_changes.py
+.claude_connectivity_report.md
+.claude_dedup_report.json
+.claude_dedup_report.py
+.claude_dedup_v2.py
+.claude_reorder.py
+.claude_restore_hd.py
+
+# Playwright MCP 临时文件
+.playwright-mcp/
+
+# 测试/调试输出
+*.log
+result/
