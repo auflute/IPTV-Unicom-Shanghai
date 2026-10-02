@@ -15,7 +15,7 @@
 
 DIYP 的 EPG 可使用：
 
-- [DIYP EPG](https://diyp.112114.xyz/)
+- https://epg.112114.xyz/
 
 ## 使用方法
 
